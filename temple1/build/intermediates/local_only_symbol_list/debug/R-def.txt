@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+id btn_beauty
+id btn_camera
+id btn_hung_up
+id btn_microphone
+id button
+id button2
+id callStats
+id editTextText
+id full_surface_render
+id pip_surface_render
+id textView
+id textView2
+layout activity_connect2
+layout activity_temple1
+string beauty
+string hung_up
+string microphone
+string switch_camera
+string temple1_hint_text
+string temple_btn_text

@@ -1,0 +1,6 @@
+<locale-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <locale android:name="en-US" />
+    <locale android:name="ur-PK" />
+    <locale android:name="zh-CN" />
+    <locale android:name="zh-TW" /> <!-- Specified the custom locale in Locale Config -->
+</locale-config>

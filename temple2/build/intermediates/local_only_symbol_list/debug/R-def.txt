@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+id device_list
+layout activity_multi_connect
+layout activity_temple2

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dds.temple1.ConnectActivity">
+
+    <org.webrtc.SurfaceViewRenderer
+        android:id="@+id/full_surface_render"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center" />
+
+    <org.webrtc.SurfaceViewRenderer
+        android:id="@+id/pip_surface_render"
+        android:layout_width="100dp"
+        android:layout_height="140dp"
+        android:layout_gravity="top|end"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="10dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="60dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_microphone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="OnMicrophone"
+            android:text="@string/microphone"
+            tools:ignore="UsingOnClickInXml" />
+
+        <Button
+            android:id="@+id/btn_hung_up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onHungUp"
+            android:text="@string/hung_up"
+            tools:ignore="UsingOnClickInXml" />
+
+        <Button
+            android:id="@+id/btn_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="OnSwitchCamera"
+            android:text="@string/switch_camera"
+            tools:ignore="UsingOnClickInXml" />
+        <Button
+            android:id="@+id/btn_beauty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="OnToggleBeauty"
+            android:text="@string/beauty"
+            tools:ignore="UsingOnClickInXml" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/callStats"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginBottom="80dp"
+        android:visibility="visible"
+        android:alpha="0.6"
+        android:background="#33343B"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="12sp" />
+
+</FrameLayout>

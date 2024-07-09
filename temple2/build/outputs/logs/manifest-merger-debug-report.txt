@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:6:22-71
+application
+ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:8:5-15:19
+activity#com.dds.temple2.ConnectMultiActivity
+ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:9:9-11:40
+	android:exported
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:10:13-49
+activity#com.dds.temple2.Temple2Activity
+ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml:13:13-44
+uses-sdk
+INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+		ADDED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml
+		INJECTED from D:\WorkProject\github\webrtc_android\temple2\src\main\AndroidManifest.xml

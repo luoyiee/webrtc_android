@@ -1,0 +1,3 @@
+D:/WorkProject/github/webrtc_android/temple1/.cxx/Debug/5w4q143n/x86/CMakeFiles/yuvconv.dir
+D:/WorkProject/github/webrtc_android/temple1/.cxx/Debug/5w4q143n/x86/CMakeFiles/edit_cache.dir
+D:/WorkProject/github/webrtc_android/temple1/.cxx/Debug/5w4q143n/x86/CMakeFiles/rebuild_cache.dir

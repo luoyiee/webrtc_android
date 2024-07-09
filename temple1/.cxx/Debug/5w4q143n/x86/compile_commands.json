@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/WorkProject/github/webrtc_android/temple1/.cxx/Debug/5w4q143n/x86",
+  "command": "C:\\Users\\xueke\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android21 --sysroot=C:/Users/xueke/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyuvconv_EXPORTS -ID:/WorkProject/github/webrtc_android/temple1/src/main/cpp/libyuv/include -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\yuvconv.dir\\yuvconv.c.o -c D:\\WorkProject\\github\\webrtc_android\\temple1\\src\\main\\cpp\\yuvconv.c",
+  "file": "D:\\WorkProject\\github\\webrtc_android\\temple1\\src\\main\\cpp\\yuvconv.c"
+}
+]

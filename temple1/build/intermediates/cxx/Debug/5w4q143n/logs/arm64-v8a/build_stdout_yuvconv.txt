@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\WorkProject\github\webrtc_android\temple1\.cxx\Debug\5w4q143n\arm64-v8a'
+[1/2] Building C object CMakeFiles/yuvconv.dir/yuvconv.c.o
+[2/2] Linking C shared library D:\WorkProject\github\webrtc_android\temple1\build\intermediates\cxx\Debug\5w4q143n\obj\arm64-v8a\libyuvconv.so
